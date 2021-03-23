@@ -1,9 +1,13 @@
 <?php
 
 $defines = [
-	'APP_NAME' => 'jagTemp',
+	'APP_NAME' => 'jagTmp',
 	'APP_DATA' => 'local',
-	'APP_URL' => 'http://localhost'
+	'APP_URL' => 'http://localhost',
+	'APPPATH' => "app/",
+	'PUBLICPATH' => "public/",
+	'SYSTEMPATH' => "system/",
+	'VENDORPATH' => "vendor/"
 ];
 
 $database = [
