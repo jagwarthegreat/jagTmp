@@ -4,5 +4,5 @@
  * Register router
  * 
  */
-
-include 'system/Router/Router.php';
+require_once __DIR__ . '/../app/Config/app.php';
+require_once __DIR__ . '/../system/Router/Router.php';

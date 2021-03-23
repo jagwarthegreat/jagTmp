@@ -7,5 +7,4 @@
  * @author jagwarhegreat
  * 
  */
-include 'app/Config/app.php';
 require_once __DIR__ . '/public/index.php';

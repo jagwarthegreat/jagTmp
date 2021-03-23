@@ -20,7 +20,7 @@
         Header set Cache-Control "max-age=28800, public"
     </filesMatch>
 
-    RewriteBase /jagTmp/
+    RewriteBase /jagTmp/public/
 
     RewriteEngine On
 
